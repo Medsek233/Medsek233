@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Medsek233
-- 👀 I’m interested in  Web development
-- 🌱 I’m currently learning PHP code
-
+- 👋 Hi, I’m Mohamed ESSALILI
+- ⌨️ Web Developper
+- Laravel,React, PHP, Mysql, JS
 
